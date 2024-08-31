@@ -98,7 +98,7 @@ These dependencies are automatically included when you add the package via NuGet
 
 ## Contributing
 
-Contributions are welcome! If you find a bug or have a feature request, please open an issue on the [GitHub repository](https://github.com/yourusername/MyAnimeListClient). Pull requests are also appreciated.
+Contributions are welcome! If you find a bug or have a feature request, please open an issue on the [GitHub repository](https://github.com/DaWeba02/MAL.API/). Pull requests are also appreciated.
 
 ## License
 
