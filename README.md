@@ -23,13 +23,7 @@ This library provides a simple and easy-to-use interface for interacting with th
 
 ## Installation
 
-You can install the library via NuGet:
-
-```bash
-dotnet add package MyAnimeListClient
-```
-
-Or add it manually to your project file:
+Add the library manually to your project file:
 
 ```xml
 <PackageReference Include="MyAnimeListClient" Version="1.0.0" />
